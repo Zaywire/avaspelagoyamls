@@ -4,7 +4,7 @@ game: Wynncraft
 Wynncraft:
   progression_balancing: normal
   accessibility: full
-  goal_level: 40
+  goal_level: 20
   locked_region_enforcement: countdown
   locked_region_countdown: 3
   starting_route: hybrid
