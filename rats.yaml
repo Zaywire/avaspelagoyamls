@@ -21,7 +21,7 @@ Autopelago:
   - Unlucky
   - Upset Tummy
   lactose_intolerant: false
-  death_link: false
+  death_link: true
   death_delay_seconds: 5
   death_item_percentage: 2
   local_items: []
